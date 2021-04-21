@@ -7,7 +7,7 @@
 
 ## 🔧 Technologies & Tools
 
-<p>
+<p style="margin-top:20px;">
    <img src="https://img.icons8.com/color/28/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/28/000000/css3.png"/>
   <img src="https://img.icons8.com/officel/28/000000/php-logo.png"/>
