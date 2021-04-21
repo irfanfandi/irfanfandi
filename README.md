@@ -1,6 +1,7 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Fandi|https://irfanfandi.github.io/)" title="👋 Hi there! I'm (Fandi|https://irfanfandi.github.io/)"/>](https://irfanfandi.github.io/)
+<h2 align="center">👋 Hello! I'm Fandi</h2>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=irfanfandi&color=00cf00)
+<div align="center">
+<h3> 💻 Full Stack Developer | 📱 Mobile Developer </div>
 
 
 
