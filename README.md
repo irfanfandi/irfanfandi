@@ -18,8 +18,9 @@
   <img src="https://img.icons8.com/color/28/000000/vue-js.png"/>
   <img src="https://img.icons8.com/color/28/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/28/000000/npm.png"/>
-  <img src="https://img.icons8.com/color/28/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/28/000000/mysql-logo.png"/>
+   <img src="https://img.icons8.com/color/28/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/28/000000/postgreesql.png"/>
+   <img src="https://img.icons8.com/color/28/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/ios-glyphs/28/000000/console.png"/>
 </p>
